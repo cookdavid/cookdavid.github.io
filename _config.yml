@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            David Cook
+tagline:          ''
+description:      'Lead Consultant at Readify'
+url:              http://davidcook.me
+baseurl:          /
+
+author:
+  name:           'David Cook'
+  url:            https://twitter.com/David_Cook
+
+#paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+#github:
+#  repo:           https://github.com/poole/hyde
+
