@@ -2,22 +2,25 @@
 markdown:         kramdown
 highlighter:      rouge
 
+# Plugins
+plugins: [jekyll-paginate]
+
 # Permalinks
 permalink:        pretty
-#relative_permalinks: true
 
 # Setup
 title:            David Cook
 tagline:          ''
 description:      'Lead Consultant at Readify'
-url:              http://davidcook.me
+url:              https://cookdavid.github.io
 baseurl:          /
 
 author:
   name:           'David Cook'
   url:            https://twitter.com/David_Cook
 
-#paginate:         5
+# Pagination
+paginate:         5
 
 # Custom vars
 version:          1.0.0
