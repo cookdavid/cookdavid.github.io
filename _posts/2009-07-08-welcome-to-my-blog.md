@@ -1,10 +1,6 @@
 ---
 layout: post
 title: Welcome to my Blog
-date: 2009-07-08 22:30
-author: davidrcook
-comments: true
-categories: [Blogging, Welcome]
 ---
 I’ve been debating the concept of starting my own blog for some time now but have been resisting due to a number of factors:
 - In my current position, most of my development is done using an internally developed framework and with internally developed tools. I figured this information would not be relevant to anyone outside of my company.
