@@ -12,8 +12,8 @@ permalink:        pretty
 title:            David Cook
 tagline:          ''
 description:      'Lead Consultant at Readify'
-url:              https://cookdavid.github.io
-baseurl:          https://cookdavid.github.io/
+url:              http://davidcook.me
+baseurl:          https://davidcook.me/
 
 author:
   name:           'David Cook'
