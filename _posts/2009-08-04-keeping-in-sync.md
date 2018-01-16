@@ -13,6 +13,6 @@ From now all, all of my documents will be stored in a folder called “Davids Do
 
 Here is what the folder structure looks like:
 
-![My Documents]({{ "/public/images/mydocuments.png" | absolute_url }})
+![My Documents](/public/images/mydocuments.png){:class="img-responsive"}
 
 As you can see, the “Working Documents” folder has been added as a Live Mesh Folder. The three computers I am syncing all need to have <a href="https://www.mesh.com/welcome/default.aspx" target="_blank">Live Mesh</a> installed and the settings for this folder allow all changes to be captured by all devices.</p>  <p>The other key information that I sync is my favourites. These are all stored in a folder under C:\Documents and Settings\{Username}\Favorites which I simply add as a Live Mesh Folder. Because my username may be different on each computer when I select to sync this folder with each device (computer) I simply specify the location where this folder lives.
