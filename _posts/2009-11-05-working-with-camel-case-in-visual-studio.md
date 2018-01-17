@@ -6,7 +6,7 @@ Recently I was shown a cool feature of CodeRush which allows you to navigate wit
 
 I am using Visual Studio 2010 with ReSharper 5.0 which has a feature called <a href="http://blogs.jetbrains.com/dotnet/2008/02/resharper-in-detail-camelhumps/" target="_blank">Camel Humps</a> which you can turn on within the ReSharper options.
 
-![camelcase1]({{ site.baseurl }}public/images/camelcase1.png){:class="img-responsive"}
+![camelcase2]({{ site.baseurl }}public/images/camelcase2.png){:class="img-responsive"}
 
 The problem I found after turning this on, is that it replaces the default behaviour for CTRL+Left Arrow and CTRL+Right Arrow. What I would like to be able to do is to continue using the default behaviour of CTRL+Right Arrow jumping to the next word, but use an alternative to jump within the word. I found that CodeRush uses the key mapping of **ALT+Left Arrow** and **ALT+Right Arrow** to achieve this so to replicate this behaviour in ReSharper you need to do the following:
 
@@ -14,4 +14,4 @@ The problem I found after turning this on, is that it replaces the default behav
 - Expand Environment and scroll down to **Keyboard**
 - Map the two commands *ReSharper_HumpNext* and *ReSharper_HumpPrev* to the key mappings you wish (E.g. **ALT+Right Arrow** and **ALT+Left Arrow**) by selecting the command from the list and entering the key mapping in the Press shortcut keys textbox, then click **Assign**
 
-![camelcase2]({{ site.baseurl }}public/images/camelcase2.png){:class="img-responsive"}
+![camelcase1]({{ site.baseurl }}public/images/camelcase1.png){:class="img-responsive"}
