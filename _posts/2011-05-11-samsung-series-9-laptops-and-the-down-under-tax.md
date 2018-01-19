@@ -2,7 +2,7 @@
 layout: post
 title: Samsung Series 9 Laptops and the "Down Under" Tax
 ---
-![samsung]({{ site.baseurl }}public/images/samsung.jpg){:style="display:inline;float:right;margin:0 0 0 10px;" :height="178px" width="283x"}
+![samsung]({{ site.baseurl }}public/images/samsung.jpg){:style="display:inline;float:right;margin:0 0 0 10px;" :height="178px" width="283px"}
 
 Yesterday ZDNet released an article <a href="http://www.zdnet.com.au/why-do-aussies-pay-more-for-software-339314647.htm" target="_blank">Why Do Aussies pay more for software</a>, and I've come to expect that many things cost more in Australia and especially electrical goods as we simply don't have the size market to get the economies of scale that they can achieve in markets such as the US or Europe but this story really hit home with me.
 
