@@ -1,0 +1,17 @@
+---
+layout: post
+title: Telco’s Holding Us To Ransom
+---
+![mozart]({{ site.baseurl }}public/images/mozart.png){:style="display:inline;float:right;margin:0 0 0 10px;" :height="188px" width="260px"}
+
+I was stoked last year when Microsoft decided to launch the new Windows Phone 7 devices in Australia and New Zealand. Now I know this is mostly due to it being a softer market to launch into where they can iron out any last minute show stoppers before the big launches into markets such as the US and Europe, but it was still very exciting to be one of the first in the world to be on the new platform.
+
+During a press conference prior to the launch that Microsoft and Telstra hosted, one of the questions from the media asked about how software updates were going to be handled and the answer was that everyone would receive the updates at the same time, regardless of the carrier they were on which brought much joy to the wider audience. Fast forward 4 months when Microsoft started to release the first software updates in February (firstly a prep update known as pre-NoDo which was simply a patch to ensure the actual update went smoothly, then the real update - NoDo) and what do we find - the updates though they are coming from Microsoft via the Zune software, looks up your phone to see which carrier and does a verification to check if they have allowed the update.
+
+Now at the time of writing (almost 3 months after the updates were released), all of the carriers in the world except two have release the update - Telefonica in Spain and Telstra in Australia (<a href="http://www.microsoft.com/windowsphone/en-us/features/update-schedule-world.aspx">http://www.microsoft.com/windowsphone/en-us/features/update-schedule-world.aspx</a> ), yet the frustrating thing is that Telstra were the launch partner! The big question on everyone's mind is simply why? What could they possibly be still testing? If they find any bugs, its unlikely that Microsoft will stop the release seeing as all providers in the world except these two have released it. You would think this was a big enough testing bed to find any issues, plus any issues they did find, unless they were major bugs, would most likely be going into the next release (<a href="http://windowsphonesecrets.com/2011/05/08/new-mango-features-revealed/" target="_blank">Mango</a>). Its also very unlikely that there are compatibility issues between NoDo and the Telstra network, seeing as they already released the HTC HD7 pre-installed with the update over a month ago. So this bring me back to the initial question, why are they holding up the release, and the only conclusion I can come to is simply because they can. In a market where class actions are taking place against their competitors, it puts them in a position that those on the network are unlikely to up and change carriers (not mentioning the fact that I am locked into a 2 year contract) - even though the other carriers here in Australia have already released the NoDo update.
+
+So. the biggest thing that I find most annoying is the fact that we were led to believe at launch that we would not be left in this situation where the carriers hold us to ransom, for what gain I really don't know.
+
+**Update:** Telstra has released the update as of this morning. The update includes NoDo as well as the SSL critical update.
+
+![telco1]({{ site.baseurl }}public/images/telco1.png){:height="92px" width="244px"}
